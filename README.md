@@ -61,11 +61,3 @@ Lumina bridges the gap between heavyweight desktop editors (Lightroom / Capture 
 | **CSS3 Custom Variables & Glassmorphism** | Modern, dark-room visual interface inspired by DaVinci Resolve. |
 | **RESTful LLM API Connectors** | Direct client-side streaming & JSON inference calls to top AI engines. |
 
----
-
-## 🚀 Quick Start
-
-### Option 1: Direct Run (No Build Needed)
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/lumina-photo-studio.git](https://github.com/your-username/lumina-photo-studio.git)
